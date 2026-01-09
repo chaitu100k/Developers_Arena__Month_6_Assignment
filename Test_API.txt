@@ -1,0 +1,11 @@
+import requests
+import numpy as np
+
+sample = np.load("model/sample_input.npy").tolist()
+
+response = requests.post(
+    "http://127.0.0.1:5000/predict",
+    json={"input": sample[0]}
+)
+
+response.json()
