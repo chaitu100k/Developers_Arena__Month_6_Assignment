@@ -44,7 +44,7 @@ Synthetic + multi-sensor traffic data with weather & anomaly features.
 Flask-based API deployed on Hiroku.
 
 ## 🔗 Live Demo
-https://Traffic-flow-prediction-system.herokuapp.com/
+https://traffic-flow-prediction-system.herokuapp.com/
 
 ## 📂 Notebooks
 - Data Collection
