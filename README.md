@@ -41,10 +41,10 @@ Synthetic + multi-sensor traffic data with weather & anomaly features.
 - MAE, RMSE evaluation
 
 ## 🚀 Deployment
-Flask-based API deployed on Hiroku.
+Flask-based API deployed on Render.
 
 ## 🔗 Live Demo
-https://traffic-flow-prediction-system.herokuapp.com/
+https://traffic-flow-prediction-system-api.onrender.com/
 
 ## 📂 Notebooks
 - Data Collection
